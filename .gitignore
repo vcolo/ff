@@ -1,3 +1,6 @@
-# Compiled files
+.git
+.terraform
+*.backup
 *.tfstate
 *.tfstate.backup
+env.sh
