@@ -1,4 +1,4 @@
-# Experimetal infrastructure
+# Experimental infrastructure
 
 ### To Do  
 *Terraform*
